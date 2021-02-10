@@ -1,0 +1,3 @@
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\Release\ttt.ttt.resources
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\Release\ttt.vcxproj.GenerateResource.cache
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\Release\ttt.vcxprojAssemblyReference.cache

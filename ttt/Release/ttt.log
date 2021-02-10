@@ -1,0 +1,4 @@
+﻿  ttt.cpp
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\ttt.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  ttt.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ttt.vcxproj -> C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\Release\ttt.exe

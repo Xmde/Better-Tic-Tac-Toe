@@ -1,0 +1,6 @@
+﻿  ttt.cpp
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\ttt.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  ttt.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+ttt.obj : error LNK2028: unresolved token (0A00058E) "extern "C" struct HINSTANCE__ * __cdecl ShellExecuteW(struct HWND__ *,wchar_t const *,wchar_t const *,wchar_t const *,wchar_t const *,int)" (?ShellExecuteW@@$$J0YAPEAUHINSTANCE__@@PEAUHWND__@@PEB_W111H@Z) referenced in function "private: void __clrcall ttt::ttt::VisitLink(void)" (?VisitLink@ttt@1@$$FAE$AAMXXZ)
+ttt.obj : error LNK2019: unresolved external symbol "extern "C" struct HINSTANCE__ * __cdecl ShellExecuteW(struct HWND__ *,wchar_t const *,wchar_t const *,wchar_t const *,wchar_t const *,int)" (?ShellExecuteW@@$$J0YAPEAUHINSTANCE__@@PEAUHWND__@@PEB_W111H@Z) referenced in function "private: void __clrcall ttt::ttt::VisitLink(void)" (?VisitLink@ttt@1@$$FAE$AAMXXZ)
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\x64\Debug\ttt.exe : fatal error LNK1120: 2 unresolved externals

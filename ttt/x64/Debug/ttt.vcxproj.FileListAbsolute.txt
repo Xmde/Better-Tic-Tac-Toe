@@ -1,0 +1,2 @@
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\x64\Debug\ttt.ttt.resources
+C:\Users\erve2\Documents\Programing\C++\3boardttt\ttt\ttt\x64\Debug\ttt.vcxproj.GenerateResource.cache
